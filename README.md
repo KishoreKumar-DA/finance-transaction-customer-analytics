@@ -1,7 +1,8 @@
 # Finance Transaction & Customer Analytics
 
-<img width="1482" height="787" alt="image" src="https://github.com/user-attachments/assets/95703cc0-9e53-4a90-9d0c-7e4bc64b1f2d" />
-<img width="1482" height="787" alt="image" src="https://github.com/user-attachments/assets/8abba505-7b31-4a21-9976-f7281b3608d7" />
+<img width="1477" height="835" alt="image" src="https://github.com/user-attachments/assets/bb9a315f-f4ec-43b9-b079-ec756493283d" />
+
+<img width="1477" height="835" alt="image" src="https://github.com/user-attachments/assets/2619322a-4f2e-42ea-8a99-96f112719462" />
 
 
 ## Project Overview
@@ -211,6 +212,7 @@ Customer & Transaction Data
     Interactive Dashboard
             ↓
     Business Insights
+---
 🎯 Skills Demonstrated
 Power BI Dashboard Development
 Power Query Data Transformation
@@ -224,6 +226,8 @@ Data Visualization
 Interactive Filtering
 Data Preparation
 Business Reporting
+
+---
 
 👤 Author
 
