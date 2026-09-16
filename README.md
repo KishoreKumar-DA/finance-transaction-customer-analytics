@@ -194,25 +194,6 @@ The dashboard helps answer questions such as:
 
 ---
 
-# 📌 Project Workflow
-
-```text
-Customer & Transaction Data
-            ↓
-      Data Preparation
-            ↓
-       Power Query
-            ↓
-      Data Modeling
-            ↓
-          DAX
-            ↓
-    KPI & Visual Analysis
-            ↓
-    Interactive Dashboard
-            ↓
-    Business Insights
----
 👤 Author
 
 Kishore Kumar
