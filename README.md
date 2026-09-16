@@ -213,22 +213,6 @@ Customer & Transaction Data
             ↓
     Business Insights
 ---
-🎯 Skills Demonstrated
-Power BI Dashboard Development
-Power Query Data Transformation
-DAX Measures
-KPI Development
-Financial Data Analysis
-Transaction Analysis
-Customer Segmentation
-Geographic Analysis
-Data Visualization
-Interactive Filtering
-Data Preparation
-Business Reporting
-
----
-
 👤 Author
 
 Kishore Kumar
